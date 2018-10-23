@@ -1,0 +1,10 @@
+import obra.*
+import obreros.*
+test "testX" {
+	describe "Obreros"{
+		const casita = new Obra()
+	}
+
+	assert.that(true)
+
+}
